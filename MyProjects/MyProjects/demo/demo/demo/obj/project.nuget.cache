@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "gQ6gvU/N14M0ih6yYhzMmbqhanx4x442kcn5GJfMkal4cP+15g2mcMIsKlvO3ULFvF4IcvNlhPW+a9rZGI4yOA==",
+  "success": true,
+  "projectFilePath": "/home/y-fusegi/MyProjects/MyProjects/MyProjects/demo/demo/demo/demo.csproj",
+  "expectedPackageFiles": [
+    "/root/.nuget/packages/ftd2xx_net/1.0.14/ftd2xx_net.1.0.14.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "パッケージ 'FTD2XX_NET 1.0.14' はプロジェクトのターゲット フレームワーク 'net6.0' ではなく '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' を使用して復元されました。このパッケージは、使用しているプロジェクトとの完全な互換性がない可能性があります。",
+      "libraryId": "FTD2XX_NET",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
+}
